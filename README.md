@@ -4,27 +4,28 @@
 
 Access **990+ government data products across 42 countries** — company registries, sanctions lists, patents, building permits, healthcare databases, court decisions, procurement notices, and more. All data sourced from official government registries in real-time.
 
+**87 example responses included** — see real API output without running a single request.
+
 ## Collections
 
 ### Government Data APIs (direct SIP API)
 
-| Collection | Country | Products | Sectors |
-|---|---|---|---|
-| [US Government Data](postman/us-government-data.json) | 🇺🇸 United States | 175 | Business, Permits, Compliance, Health, Finance, Education, Transport |
-| [Canada Government Data](postman/canada-government-data.json) | 🇨🇦 Canada | 89 | Business, Permits, Procurement, Health, Finance, Energy, Education, Legal |
-| [EU Government Data](postman/eu-government-data.json) | 🇪🇺 European Union | 85 | Financial Registries, Health, Energy, Education, Legal, Procurement |
-| [Taiwan Government Data](postman/taiwan-government-data.json) | 🇹🇼 Taiwan | 56 | Stock Market, FDA, CDC, Environment, Food Safety |
-| [France Government Data](postman/france-government-data.json) | 🇫🇷 France | 36 | Business, Construction, Health, Legal, Procurement |
-| [Israel Government Data](postman/israel-government-data.json) | 🇮🇱 Israel | 33 | Business, Construction, Health, Procurement |
-| [UK Government Data](postman/uk-government-data.json) | 🇬🇧 United Kingdom | 31 | Charities, Planning, NHS, Case Law, Procurement |
-| [Australia Government Data](postman/australia-government-data.json) | 🇦🇺 Australia | 28 | ASIC, Permits, Medicare, IP, Procurement |
-| [Global Sanctions & Company Verification](postman/global-sanctions-company-verification.json) | 🌍 Global | 15 | OFAC, EU/CA Sanctions, GLEIF, VAT, FINRA, FDIC |
+| Collection | Country | Products | Examples | Sectors |
+|---|---|---|---|---|
+| [US Government Data](postman/us-government-data.json) | 🇺🇸 United States | 175 | 6 | Business, Permits, Compliance, Health, Finance, Education, Transport |
+| [Canada Government Data](postman/canada-government-data.json) | 🇨🇦 Canada | 89 | 12 | Business, Permits, Procurement, Health, Finance, Energy, Education, Legal |
+| [EU Government Data](postman/eu-government-data.json) | 🇪🇺 European Union | 85 | 12 | Financial Registries, Health, Energy, Education, Legal, Procurement |
+| [Taiwan Government Data](postman/taiwan-government-data.json) | 🇹🇼 Taiwan | 56 | 10 | Stock Market, FDA, CDC, Environment, Food Safety |
+| [France Government Data](postman/france-government-data.json) | 🇫🇷 France | 36 | 10 | Business, Construction, Health, Legal, Procurement |
+| [UK Government Data](postman/uk-government-data.json) | 🇬🇧 United Kingdom | 31 | 7 | Charities, Planning, NHS, Case Law, Procurement |
+| [Australia Government Data](postman/australia-government-data.json) | 🇦🇺 Australia | 28 | 9 | ASIC, Permits, Medicare, IP, Procurement |
+| [Global Sanctions & Company Verification](postman/global-sanctions-company-verification.json) | 🌍 Global | 15 | 9 | OFAC, EU/CA Sanctions, GLEIF, VAT, FINRA, FDIC |
 
 ### Web Scraper Actors (Apify API)
 
-| Collection | Actors |
-|---|---|
-| [SIP Web Scrapers](postman/sip-web-scrapers-apify.json) | Google Maps, YouTube, TikTok, LinkedIn Jobs, Reddit, Facebook Ads, Booking/Airbnb, eBay/Target, Zillow/Zumper, Stealth Scraper |
+| Collection | Actors | Examples |
+|---|---|---|
+| [SIP Web Scrapers](postman/sip-web-scrapers-apify.json) | Google Maps, YouTube, TikTok, LinkedIn Jobs, Reddit, Facebook Ads, Booking/Airbnb, eBay/Target, Zillow/Zumper, Stealth Scraper | 12 |
 
 ## Quick Start
 
